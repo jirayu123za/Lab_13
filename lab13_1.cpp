@@ -6,7 +6,7 @@ int fibonacci(int x);
 int main(){
     int x;
     cin >> x;
-    cout << fibonacci(50);
+    cout << fibonacci(x);
     return 0; 
 }
 
